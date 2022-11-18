@@ -1,6 +1,6 @@
-# ---SOLIAS STUDIOS---
+# ---PROJECT SOLIAS---
 
-### CURRENT PROJECTS
+### -GAMES-
 
 BatchQuest [[clickhere]](https://github.com/Solias-Studios/BatchQuest)
 
