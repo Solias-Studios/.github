@@ -2,7 +2,8 @@
 
 ### -GAMES-
 
-BatchQuest [[clickhere]](https://github.com/Solias-Studios/BatchQuest)
+NO GAMES UNDER DEVELPMENT YET 
+<!--- [[clickhere]](https://github.com/Solias-Studios/BatchQuest) --->
 
 \-
 
