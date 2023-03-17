@@ -1,6 +1,6 @@
 # ---PROJECT SOLIAS---
 
-### -GAMES-
+### -GAMES / MODS-
 
 Doki Doki Bright Horizons 
 <!--- [[clickhere]](https://github.com/Solias-Studios/BatchQuest) --->
