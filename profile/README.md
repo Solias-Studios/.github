@@ -1,10 +1,15 @@
 # ---PROJECT SOLIAS---
 
-### -GAMES / MODS-
+An independant game studio.
 
-none _yet_
+## -GAMES / MODS-
 
-\-
+### YET ANOTHER DISASTER GAME
+
+_YADG (Yet Another Disaster Game) is a disaster survival game that pairs wacky and destructive disasters with physics based maps and PvP combat!_
+
+[Link (Roblox)](https://www.roblox.com/join/ahde9)
+
 
 <!-- invalid 😭
 Questions?
