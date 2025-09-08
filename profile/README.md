@@ -1,6 +1,6 @@
 # ---PROJECT SOLIAS---
 
-An independant game studio.
+An independent game studio.
 
 ## -GAMES / MODS-
 
